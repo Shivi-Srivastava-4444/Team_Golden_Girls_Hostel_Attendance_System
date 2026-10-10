@@ -1,1 +1,0 @@
-# Team_Golden_Girls_Hostel_Attendance_System
